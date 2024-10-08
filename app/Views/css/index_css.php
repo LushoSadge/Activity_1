@@ -6,6 +6,9 @@
     height: auto;
   }
 
+  body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
   .row5 {
     background-color: pink;
   }

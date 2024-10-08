@@ -16,17 +16,9 @@ use CodeIgniter\Database\BaseUtils;
   <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg row5">
       <div class="header col-lg-9 p-3 p-lg-5 pt-lg-3">
-        <h1 class="headings display-4 fw-bold lh-1 text-body-emphasis">Elevate Your Gaming Journey with Jethro's Barbie
-          World’s Exclusive Collection</h1>
-        <p class="lead mt-4">Explore a vast selection of Barbie-themed games and limited-edition collectibles, both
-          in-game
-          and physical. Whether you're looking for the latest titles or rare, one-of-a-kind
-          items, Jethro's Barbie World has everything you need to showcase your passion for Barbie and
-          stand out in the community.</p>
+        <h1 class="headings display-4 fw-bold lh-1 text-body-emphasis">Discover the Magic of Barbie with Jethro's Barbie World</h1>
+        <p class="lead mt-4">Explore a vast selection of Barbie dolls and limited-edition collectibles. Whether you're looking for the latest releases or rare, one-of-a-kind items, Jethro's Barbie World has everything you need to showcase your passion for Barbie and stand out in the community.</p>
       </div>
-      <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden">
-            <img class="img-pin rounded-lg-1" src="<?= base_url('assets/images/home/homebarbie.png') ?>">
-        </div>
     </div>
 
     <div class="container mt-5">
@@ -36,31 +28,29 @@ use CodeIgniter\Database\BaseUtils;
           <div class="card shadow-sm">
             <div class="card shadow">
               <img
-                src="https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/e940c07107a4cefbbedbbd53451e26f0dbf292dcfab6c307.png"
-                alt="">
+                src="<?= base_url('assets/images/home/homebarbie.png') ?>"
+                alt="Barbie Doll 1">
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
             <div class="card shadow">
-              <img src="https://i.ebayimg.com/images/g/kLYAAOSwuwJkNaXz/s-l1200.jpg" alt="">
+              <img src="<?= base_url('assets/images/home/barbiehome2.webp') ?>" alt="Barbie Doll 2">
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
             <div class="card shadow">
-              <img
-                src="https://preview.redd.it/metaphor-refantazio-high-quality-poster-v0-tx2vj1xvl8wc1.jpeg?auto=webp&s=5d6dd13ff191638e666fdefaf0ec361cc73d70bd"
-                alt="">
+              <img src="<?= base_url('assets/images/home/barbiehome3.jpg') ?>" alt="Barbie Doll 3">
             </div>
           </div>
         </div>
       </div>
       <div class="container-btn text-center mt-4">
         <a class="viewProducts" href="product.html">
-          <button>Look at my Barbie Dolls</button>
+            <button style="background-color: pink; color: black;">Look at my Barbie Dolls</button>
         </a>
       </div>
     </div>
@@ -92,14 +82,14 @@ use CodeIgniter\Database\BaseUtils;
     <div class="row row1 flex-lg-row align-items-center g-5 py-5 ml-5">
       <div class="col-10 col-sm-8 col-lg-6">
         <img
-          src="https://figurama-collectors.com/cdn/shop/products/03_76c2425f-2309-4248-998c-1264c4d37f13_5000x.png?v=1677490686"
+          src="<?= base_url('assets/images/home/barbiedollhouse.jpg') ?>"
           class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
       </div>
       <div class=" coming-soon col-lg-6">
-        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Unlock Exclusive Collectibles with GameWorld</h1>
-        <p class="lead">Something big is coming to GameWorld! Get ready for the release of new limited-edition
-          games and rare collectibles, both in-game and physical. Stay tuned for the launch, and be among the
-          first to get your hands on these one-of-a-kind items!</p>
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Unlock Exclusive Barbie Collectibles with Jethro's Barbie World</h1>
+        <p class="lead">Something big is coming to Jethro's Barbie World! Get ready for the release of new limited-edition
+          Barbie-themed collectibles, both in-game and physical. Stay tuned for the launch, and be among the
+          first to get your hands on these one-of-a-kind Barbie items!</p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
         </div>
       </div>
