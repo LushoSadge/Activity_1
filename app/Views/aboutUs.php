@@ -15,7 +15,9 @@
     </div>
   </div>
 </section>
-
+/**
+ * To be continued
+ */
 <section>
   <div class="container col-xxl-8 px-4 py-5">
     <div class="row row1 flex-lg-row align-items-center g-5 py-5 ml-5">

@@ -9,7 +9,9 @@ use CodeIgniter\Database\BaseUtils;
 <?= $this->section('css') ?>
 <?= $this->include('css/products_css') ?>
 <?= $this->endSection('css') ?>
-
+/**
+ * To be continued
+ */
 <?= $this->section('content') ?>
   <section>
     <div class="album py-5">
